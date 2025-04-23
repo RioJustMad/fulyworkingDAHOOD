@@ -1,6 +1,3 @@
-TEST TEST TEST UPDATE
-
-
 TarasBP6
 TarasBP8
 mandysmanifesto
